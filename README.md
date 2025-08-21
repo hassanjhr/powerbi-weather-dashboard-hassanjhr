@@ -56,10 +56,10 @@ These measures make the dashboard more **interactive** and help visualize air qu
 ## 📸 Dashboard Preview
 
 ### Day-Before-Yesterday (Old Data Snapshot)
-(/images/dashboard002-previous.png) 
+![Old Dashboard](/images/dashboard002-previous.png) 
 
 ### Today’s Dashboard (After Refresh)
-(/images/dashboard001-today.png)
+![New Dashboard](/images/dashboard001-today.png)
 
 The dashboard updates when refreshed in Power BI, always pulling the latest data from WeatherAPI.  
 
